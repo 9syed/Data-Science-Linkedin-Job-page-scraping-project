@@ -1,2 +1,4 @@
-9syed.mar@gmail.com
-SMAR201008
+# Enter your email address
+example@gmail.com
+# Enter your password
+dncdSWSCEC
